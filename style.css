@@ -1,0 +1,20 @@
+/*
+ Theme Name:   Mozie Thirteen Child
+ Theme URI:    http://mozie.it/
+ Description:  TwentyThirteen customization for Mozie blog
+ Author:       Fabrizio Fortunato
+ Author URI:   http://izifortune.me
+ Template:     twentythirteen
+ Version:      1.0.0
+ Tags: black, brown, orange, tan, white, yellow, light, one-column, two-columns, right-sidebar, fluid-layout, responsive-layout, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready
+ Text Domain:  twenty-thirteen-child
+ License: GNU General Public License v2 or later
+ 
+*/
+
+@import url("../twentythirteen/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+@import url("css/main.css");

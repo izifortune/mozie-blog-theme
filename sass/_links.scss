@@ -1,0 +1,42 @@
+a {
+    color: $light-blu;
+    &:hover {
+        color: $light-blu;
+    }
+
+    &:visited {
+        color: darken($light-blu, 40%);
+    }
+}
+
+.entry-title a:hover {
+    color: $light-blu;
+}
+
+//Meta articoli
+.entry-meta a {
+    color: darken($light-blu, 20%);
+    &:hover {
+        color: darken($light-blu, 20%);
+    }
+}
+
+.widget a:hover {
+    color: darken($light-blu, 20%);
+}
+
+//Comment links
+.comment-meta a, .comment-author .fn, .comment-author .url, .comment-reply-link{
+    color: darken($light-blu, 20%);
+    &:hover {
+        color: darken($light-blu, 20%);
+    }
+}
+
+//link footer
+.site-footer .widget a {
+    color: $light-blu;
+}
+
+
+

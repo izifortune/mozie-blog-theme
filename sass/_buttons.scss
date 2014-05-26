@@ -1,0 +1,8 @@
+button, input[type="submit"], input[type="button"], input[type="reset"] {
+    background: linear-gradient(to bottom, $light-blu 0%, darken($light-blu, 20%) 100%);
+    border-color: $dark-blu;
+
+    &:hover {
+        background: linear-gradient(to bottom, $light-blu 0%, lighten($light-blu, 10%) 100%);
+    }
+}
